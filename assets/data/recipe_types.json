@@ -1,0 +1,11 @@
+{
+  "types": [
+    "All",
+    "Desserts",
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Cakes",
+    "Biscuits"
+  ]
+}
